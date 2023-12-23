@@ -1,5 +1,5 @@
 # db-capstone-project
 ### Coursera Database Engineer Capstone Project
 
-![Little Lemon ER Diagram](./'Little Lemon DM.png')
+![Little Lemon ER Diagram](./LittleLemonDM.png)
 

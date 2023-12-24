@@ -33,7 +33,7 @@ Screenshots below, full interactive dashboard can be found [here](https://public
 <br>
 <br>
 ## <a name="mysql"></a>mySQL
-Forward Engineering Script
+Forward Engineering Script can be found in files named "Little Lemon DM SQL Script"
 ![GetMaxQuantity](./Images/MySql/GetMaxQuantityProcedure.png)
 ![GetOrderDetail](./Images/MySql/GetOrderDetail.png)
 

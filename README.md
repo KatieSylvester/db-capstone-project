@@ -4,7 +4,7 @@
 
 ![Little Lemon ER Diagram](./LittleLemonDM.png)
 
-![Customer Sales](./images/Tableau/CustomerSales.png)
+![Customer Sales](./main/images/Tableau/CustomerSales.png)
 ![Sales Bubble Chart](./images/Tableau/SalesBubbleChart.png)
 ![Profit Chart](./images/Tableau/ProfitChart.png)
 ![Cuisine Sales and Profits](./images/Tableau/CuisineSalesandProfits.png)

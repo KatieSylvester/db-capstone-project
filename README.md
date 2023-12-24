@@ -1,9 +1,20 @@
 # Little Lemon DB
-### Coursera Database Engineer Capstone Project
-
-
+<br>
+<br>
+Note: This project was completed for Coursera Database Engineering Capstone
+<br>
+<br>
+## Table of Contents
+* [Little Lemon ER Diagram](#little-lemon-er-diagram)
+* [Tableau](#tableau)
+* [mysql](#mysql)
+<br>
+<br>
+## <a name="little-lemon-er-diagram"></a>ER Diagram
 ![Little Lemon ER Diagram](./LittleLemonDM.png)
-
+<br>
+<br>
+## <a name="tableau"></a>Tableau
 ![Customer Sales](./Images/Tableau/CustomerSales.png)
 ![Sales Bubble Chart](./Images/Tableau/SalesBubbleChart.png)
 ![Profit Chart](./Images/Tableau/ProfitChart.png)

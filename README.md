@@ -9,6 +9,7 @@ Note: This project was completed for Coursera Database Engineering Capstone
 
 * [Little Lemon ER Diagram](#little-lemon-er-diagram)
 * [Tableau](#tableau)
+* [mySQL Forward Engineering Script](#mySQL-script)
 * [mysql](#mysql)
 
 
@@ -32,8 +33,11 @@ Screenshots below, full interactive dashboard can be found [here](https://public
 ![Dashboard with Filter](./Images/Tableau/DashboardwithFilter.png)
 <br>
 <br>
+## <a name="mySQL-script"></a>mySQL Forward Engineering Script
+The script can be found in main folder above.  File name:  Little Lemon DM SQL Script
+<br>
+<br>
 ## <a name="mysql"></a>mySQL
-Forward Engineering Script can be found in files named "Little Lemon DM SQL Script"
 ![GetMaxQuantity](./Images/MySql/GetMaxQuantityProcedure.png)
 ![GetOrderDetail](./Images/MySql/GetOrderDetail.png)
 
